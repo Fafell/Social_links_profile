@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-[Link to netlify](https://your-live-site-url.com)
+[Link to netlify](https://social-links-profile-fafel.netlify.app/)
 
 ## My process
 
